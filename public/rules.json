@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://i.ytimg.com/vi/\\1/hq720_1.jpg"
+      }
+    },
+    "condition": {
+      "regexFilter": "^https?://i\\d?\\.ytimg\\.com/vi(?:_webp)?/([^/]+)/(?:default|hqdefault|mqdefault|sddefault|hq720|maxresdefault)(?:_custom_\\d+)?\\.(?:jpg|webp)",
+      "resourceTypes": ["image"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://i.ytimg.com/vi/\\1/oar1.jpg"
+      }
+    },
+    "condition": {
+      "regexFilter": "^https?://i\\d?\\.ytimg\\.com/vi(?:_webp)?/([^/]+)/oardefault(?:_custom_\\d+)?\\.(?:jpg|webp)",
+      "resourceTypes": ["image"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 2,
+    "action": { "type": "allow" },
+    "condition": {
+      "regexFilter": "cbr=debait",
+      "resourceTypes": ["image"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 2,
+    "action": { "type": "allow" },
+    "condition": {
+      "regexFilter": "^https?://i\\d?\\.ytimg\\.com/vi(?:_webp)?/[^/]+/[^?]+\\?v=",
+      "resourceTypes": ["image"]
+    }
+  }
+]
