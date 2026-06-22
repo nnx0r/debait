@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – യഥാർത്ഥ YouTube തംബ്നെയിലുകൾ, ക്ലിക്ക്ബെയ്റ്റ് ഇല്ല",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube-ന്റെ ക്ലിക്ക്ബെയ്റ്റ് തംബ്നെയിലുകൾ വീഡിയോയുടെ യഥാർത്ഥ ആദ്യ ഫ്രെയിം കൊണ്ട് സ്വയം മാറ്റുന്നു. ലഘു, സ്വകാര്യം, സജ്ജീകരണമില്ല.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

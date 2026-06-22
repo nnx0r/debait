@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Miniature reali di YouTube, niente clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Sostituisce le miniature clickbait di YouTube con il primo fotogramma reale del video. Leggera, privata, senza configurazione.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

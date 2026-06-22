@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Tunay na thumbnail sa YouTube, walang clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Awtomatikong pinapalitan ang clickbait na thumbnail sa YouTube ng tunay na unang frame ng video. Magaan, pribado, walang setup.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

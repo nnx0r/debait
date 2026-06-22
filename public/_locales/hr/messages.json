@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Prave YouTube sličice, bez clickbaita",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Automatski zamjenjuje clickbait sličice YouTubea pravom prvom sličicom videa. Lagano, privatno, bez postavljanja.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

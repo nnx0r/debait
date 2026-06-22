@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – আসল YouTube থাম্বনেল, কোনো ক্লিকবেট নয়",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube-এর ক্লিকবেট থাম্বনেল স্বয়ংক্রিয়ভাবে ভিডিওর আসল প্রথম ফ্রেম দিয়ে বদলে দেয়। হালকা, ব্যক্তিগত, সেটআপ ছাড়াই।",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – असली YouTube थंबनेल, कोई क्लिकबेट नहीं",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube के क्लिकबेट थंबनेल को अपने आप वीडियो के असली पहले फ़्रेम से बदल देता है। हल्का, निजी, बिना सेटअप।",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

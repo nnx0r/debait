@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Thumbnail YouTube asli, bukan umpan klik",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Otomatis mengganti thumbnail umpan klik YouTube dengan frame pertama asli video. Ringan, privat, tanpa pengaturan.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

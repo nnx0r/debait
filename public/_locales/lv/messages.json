@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Īsti YouTube sīktēli, bez clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Automātiski aizstāj YouTube clickbait sīktēlus ar video patieso pirmo kadru. Viegls, privāts, bez iestatīšanas.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Gerçek YouTube küçük resimleri, tıklama tuzağı yok",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube’daki tıklama tuzağı küçük resimleri otomatik olarak videonun gerçek ilk karesiyle değiştirir. Hafif, gizli, kurulum yok.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

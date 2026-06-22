@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – 진짜 유튜브 썸네일, 낚시성 썸네일 제거",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "유튜브의 낚시성 썸네일을 영상의 진짜 첫 프레임으로 자동 교체합니다. 가볍고, 비공개이며, 설정이 필요 없습니다.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

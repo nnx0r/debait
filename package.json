@@ -2,8 +2,11 @@
   "name": "debait",
   "description": "Replace clickbait YouTube thumbnails with the real first video frame.",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=20.12.0"
+  },
   "scripts": {
     "dev": "wxt",
     "dev:firefox": "wxt -b firefox --mv3",

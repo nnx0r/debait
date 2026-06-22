@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Πραγματικές μικρογραφίες YouTube, χωρίς clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Αντικαθιστά τις clickbait μικρογραφίες του YouTube με το πραγματικό πρώτο καρέ του βίντεο. Ελαφριά, ιδιωτική, χωρίς ρυθμίσεις.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

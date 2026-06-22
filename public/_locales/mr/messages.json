@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – खरे YouTube थंबनेल, क्लिकबेट नाही",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube चे क्लिकबेट थंबनेल आपोआप व्हिडिओच्या खऱ्या पहिल्या फ्रेमने बदलते. हलके, खाजगी, सेटअपशिवाय.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

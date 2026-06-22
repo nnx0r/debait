@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – תמונות ממוזערות אמיתיות ביוטיוב, בלי קליקבייט",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "מחליף אוטומטית תמונות ממוזערות קליקבייט ביוטיוב בפריים הראשון האמיתי של הסרטון. קל, פרטי, ללא הגדרות.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

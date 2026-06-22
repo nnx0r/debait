@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Hình thu nhỏ YouTube thật, không câu khách",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Tự động thay hình thu nhỏ câu khách trên YouTube bằng khung hình đầu tiên thật của video. Nhẹ, riêng tư, không cần thiết lập.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – صور يوتيوب المصغّرة الحقيقية بلا نقر مخادع",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "يستبدل تلقائيًا صور يوتيوب المصغّرة المخادعة بأول إطار حقيقي من الفيديو. خفيف وخاص وبلا إعداد.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

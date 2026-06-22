@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Aidot YouTube-pikkukuvat, ei klikkiotsikoita",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Korvaa klikkiansapikkukuvat YouTubessa automaattisesti videon aidolla ensimmäisellä ruudulla. Kevyt, yksityinen, ei asetuksia.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

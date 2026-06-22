@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – 真實的 YouTube 縮圖，拒絕標題黨",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "自動將 YouTube 的標題黨縮圖替換成影片真實的第一個影格。輕量、隱私、免設定。",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

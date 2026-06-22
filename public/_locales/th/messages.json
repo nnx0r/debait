@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – ภาพขนาดย่อ YouTube ของจริง ไม่มีคลิกเบต",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "แทนที่ภาพขนาดย่อคลิกเบตบน YouTube ด้วยเฟรมแรกจริงของวิดีโอโดยอัตโนมัติ เบา เป็นส่วนตัว ไม่ต้องตั้งค่า",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

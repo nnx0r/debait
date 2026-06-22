@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Tõelised YouTube’i pisipildid, ilma clickbait’ita",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Asendab YouTube’i clickbait-pisipildid automaatselt video tõelise esimese kaadriga. Kerge, privaatne, seadistuseta.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

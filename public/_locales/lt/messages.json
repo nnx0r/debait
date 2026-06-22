@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Tikros „YouTube“ miniatiūros, jokio spustelėjimų jauko",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Automatiškai pakeičia „YouTube“ spustelėjimų jauko miniatiūras tikru pirmuoju vaizdo įrašo kadru. Lengva, privatu, be nustatymų.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Ægte YouTube-miniaturer, intet clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Erstatter automatisk clickbait-miniaturer på YouTube med videoens ægte første billede. Let, privat, ingen opsætning.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

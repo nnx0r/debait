@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Valódi YouTube-bélyegképek kattintásvadászat nélkül",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Automatikusan lecseréli a kattintásvadász YouTube-bélyegképeket a videó valódi első képkockájára. Könnyű, privát, beállítás nélkül.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

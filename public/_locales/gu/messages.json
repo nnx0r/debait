@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – અસલી YouTube થંબનેલ, કોઈ ક્લિકબેટ નહીં",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube ના ક્લિકબેટ થંબનેલને આપમેળે વિડિયોના અસલી પ્રથમ ફ્રેમથી બદલે છે. હલકું, ખાનગી, સેટઅપ વગર.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

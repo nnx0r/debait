@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Miniaturi reale YouTube, fără clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Înlocuiește automat miniaturile clickbait de pe YouTube cu primul cadru real al videoclipului. Ușoară, privată, fără configurare.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

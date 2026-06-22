@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – እውነተኛ የYouTube ድንክዬዎች፣ ያለ ጠቅታ ማታለያ",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "የYouTube ጠቅታ ማታለያ ድንክዬዎችን በቪዲዮው እውነተኛ የመጀመሪያ ፍሬም በራስ-ሰር ይተካል። ቀላል፣ ግላዊ፣ ያለ ማዋቀር።",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

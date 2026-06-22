@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – 本物のYouTubeサムネイル、釣りサムネなし",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTubeの釣りサムネを動画の本物の最初のフレームに自動で置き換えます。軽量・プライベート・設定不要。",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

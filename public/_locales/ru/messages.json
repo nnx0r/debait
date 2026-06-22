@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Настоящие превью YouTube без кликбейта",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Автоматически заменяет кликбейтные превью YouTube на настоящий первый кадр видео. Лёгкое, приватное, без настройки.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

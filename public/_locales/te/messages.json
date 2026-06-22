@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – అసలైన YouTube థంబ్‌నెయిల్‌లు, క్లిక్‌బెయిట్ లేదు",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube క్లిక్‌బెయిట్ థంబ్‌నెయిల్‌లను వీడియో అసలైన మొదటి ఫ్రేమ్‌తో ఆటోమేటిక్‌గా మారుస్తుంది. తేలికైనది, ప్రైవేట్, సెటప్ అవసరం లేదు.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

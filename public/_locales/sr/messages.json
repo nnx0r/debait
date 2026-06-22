@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Праве YouTube сличице, без кликбејта",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Аутоматски замењује кликбејт сличице YouTube-а правом првом сличицом видеа. Лако, приватно, без подешавања.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

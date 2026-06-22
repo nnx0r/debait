@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Echte YouTube-Thumbnails statt Clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Ersetzt Clickbait-Thumbnails auf YouTube automatisch durch das echte erste Bild des Videos. Leicht, privat, ohne Einrichtung.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

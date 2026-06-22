@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Истински миниатюри в YouTube, без кликбейт",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Автоматично заменя кликбейт миниатюрите в YouTube с истинския първи кадър на видеото. Леко, поверително, без настройки.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

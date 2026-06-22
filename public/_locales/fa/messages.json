@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – تصاویر بندانگشتی واقعی یوتیوب، بدون کلیک‌بیت",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "تصاویر بندانگشتی کلیک‌بیت یوتیوب را به‌طور خودکار با نخستین فریم واقعی ویدیو جایگزین می‌کند. سبک، خصوصی، بدون تنظیمات.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Vijipicha halisi vya YouTube, bila clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Hubadilisha kiotomatiki vijipicha vya clickbait vya YouTube na fremu halisi ya kwanza ya video. Nyepesi, faragha, bila usanidi.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – 真实的 YouTube 缩略图，告别标题党",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "自动将 YouTube 的标题党缩略图替换为视频真实的第一帧。轻量、隐私、无需设置。",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

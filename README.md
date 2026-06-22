@@ -64,6 +64,25 @@ npm run zip:firefox    # zipped Firefox artifact for AMO
 To compare de-baited vs. original thumbnails on a live page, see
 [docs/console-snippets.md](docs/console-snippets.md).
 
-## TODO
+## Icons
 
-- Extension icons (16/32/48/96/128) — coming from the Figma assets pass.
+Extension icons live in [public/icon/](public/icon/) at 16/32/48/96/128 px —
+WXT auto-detects them and wires up `manifest.icons` for both browsers. They're
+exported from the DeBait brand icon in Figma. To regenerate, re-export the icon
+node and rasterize at each size (transparent corners, no background fill).
+
+## Localization
+
+The extension name and description are localized into 54 store locales. The
+manifest references `__MSG_extName__` / `__MSG_extDescription__` with
+`default_locale: 'en'`; the per-locale strings live in
+[public/\_locales/](public/_locales/) (`<locale>/messages.json`, auto-shipped by
+WXT). Longer Chrome Web Store / AMO listing copy (title + full description per
+language) is in [docs/store-listings.md](docs/store-listings.md).
+
+Both are generated from one source of truth,
+[scripts/gen-i18n.mjs](scripts/gen-i18n.mjs) — edit the copy there and run
+`node scripts/gen-i18n.mjs` to regenerate. The script enforces Chrome's 132-char
+short-description limit. The store title carries SEO keywords (YouTube,
+thumbnails, clickbait) while keeping the **DeBait** name; translations for less
+common locales should be native-reviewed before submission.

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Miniatures reals de YouTube, sense clickbait",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Substitueix les miniatures clickbait de YouTube pel primer fotograma real del vídeo. Lleugera, privada, sense configuració.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

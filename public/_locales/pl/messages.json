@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – Prawdziwe miniatury YouTube, bez clickbaitu",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "Automatycznie zastępuje clickbaitowe miniatury YouTube prawdziwą pierwszą klatką filmu. Lekkie, prywatne, bez konfiguracji.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

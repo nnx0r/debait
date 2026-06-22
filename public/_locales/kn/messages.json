@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – ನಿಜವಾದ YouTube ಥಂಬ್‌ನೇಲ್‌ಗಳು, ಕ್ಲಿಕ್‌ಬೈಟ್ ಇಲ್ಲ",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube ನ ಕ್ಲಿಕ್‌ಬೈಟ್ ಥಂಬ್‌ನೇಲ್‌ಗಳನ್ನು ವೀಡಿಯೊದ ನಿಜವಾದ ಮೊದಲ ಫ್ರೇಮ್‌ನಿಂದ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸುತ್ತದೆ. ಹಗುರ, ಖಾಸಗಿ, ಸೆಟಪ್ ಇಲ್ಲ.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}

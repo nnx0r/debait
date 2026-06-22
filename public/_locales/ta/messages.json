@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "DeBait – உண்மையான YouTube சிறுபடங்கள், கிளிக்பெய்ட் இல்லை",
+    "description": "Extension name / store title (shown in browser and store)."
+  },
+  "extDescription": {
+    "message": "YouTube இன் கிளிக்பெய்ட் சிறுபடங்களை வீடியோவின் உண்மையான முதல் ஃபிரேமால் மாற்றுகிறது. இலகுவானது, தனிப்பட்டது, அமைப்பு தேவையில்லை.",
+    "description": "Short description (manifest; Chrome caps at 132 chars)."
+  }
+}
