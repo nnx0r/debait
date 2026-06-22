@@ -23,7 +23,7 @@ export default defineConfig({
       ? {
           browser_specific_settings: {
             gecko: {
-              // id: 'debait@devilos.dev',
+              id: "my@debait.id",
               strict_min_version: "128.0",
               data_collection_permissions: { required: ["none"] },
             },
